@@ -3,7 +3,8 @@
 // 1. To hold properties and methods that are common to all instances of the class
 // 2. To provide a way to create factory methods
 // 3. To group related functionality together
-// This increases code organization and readability. 
+// This increases code organization and readability.
+
 
 class Quiz {
     val question1 = Question<String>(
